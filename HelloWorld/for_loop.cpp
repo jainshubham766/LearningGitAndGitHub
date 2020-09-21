@@ -2,5 +2,6 @@
 int main()
 {
 	std::cout << "For Loop";
+	std::cout << "New Line Added";
 	return 0;
 }
