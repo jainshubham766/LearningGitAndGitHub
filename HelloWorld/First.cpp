@@ -1,7 +1,7 @@
 //<<<<<<< HEAD
 //hello shubham
 //this is master branch
-=======
+//=======
 #include <iostream>
 int main()
 {
