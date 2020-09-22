@@ -1,6 +1,14 @@
 #include <iostream>
-int main()
+int main( )
 {
+	std::cout << "For Loop";
+	std::cout << "New Line Added";
+	std::cout << "For Loop";
+	std::cout << "New Line Added";
+	std::cout << "For Loop";
+	std::cout << "New Line Added";
+	std::cout << "For Loop";
+	std::cout << "New Line Added";
 	std::cout << "For Loop";
 	std::cout << "New Line Added";
 	std::cout << "For Loop";
